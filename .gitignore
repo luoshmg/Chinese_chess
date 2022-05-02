@@ -1,2 +1,3 @@
+# ignore all .o and .a files and files ending with ~
 *.[oa]
 *~
