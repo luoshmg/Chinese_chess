@@ -650,7 +650,7 @@ int legal_mv(int side, char *command, int ty, char (*chessboard)[COL])
             col_to = col_in;
             row_to = row_in - a_or_r*to_or_delta;
             // 不能后退
-            if (a_or_r == -1)
+            if (mv_ty == 'r')
             {
                 printf("piece %c can't retreat\n", piece);
                 return 0;
