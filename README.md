@@ -3,11 +3,13 @@ Terminal Chinese_chess
 
 ## 显示
 执行之后，终端打印如下：
+
 ![初始效果](https://github.com/luoshmg/Chinese_chess/blob/main/img/chess_step0.png)
 
 **GAME BEGINE之下是棋盘，视角为红方（棋子用大写字母表示）；**
 
 **RED's turn: 等待输入红方（红方先行）的走法，例如F2t5，表示炮二平五。执行效果如下：**
+
 ![炮二平五](https://github.com/luoshmg/Chinese_chess/blob/main/img/chess_step1.png)
 
 **类似的，BLACK's turn: 等待输入黑方的走法，例如d8a7，表示馬八进七。**
